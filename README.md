@@ -1,4 +1,4 @@
-# Job Portal App with MERN Stack Simple and Easy to design
+# Job Portal App with MERN Stack  TO design it Simpler and Easier to use
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 
