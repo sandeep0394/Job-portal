@@ -1,15 +1,15 @@
-# Job Portal App with MERN Stack
+# Job Portal App with MERN Stack Simple and Easy to design
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 
-## Features
+## Features Added to the portal
 
 - **User Authentication:** Secure authentication using JWT (JSON Web Tokens) for both job seekers and employers.
 - **Job Listings:** Browse through a wide range of job listings fetched from MongoDB.
 - **Application Management:** Job seekers can manage their job applications, and employers can view and manage received applications.
 - **Responsive Design:** Ensures a seamless experience across all devices.
 
-## Technologies Used
+## Technologies Used To build
 
 - **Frontend:** React.js, React Router, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone 
+   git clone https://github.com/sandeep0394/Job-portal
    ```
 2. Install NPM packages:
    ```sh
@@ -79,5 +79,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## Contact
 
 Abotula sai sandeep - [GitHub](https://github.com/sandeep0394)
+PROJECT LINK: https://github.com/sandeep0394/Job-portal
 
 
